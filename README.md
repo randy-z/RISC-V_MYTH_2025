@@ -9,3 +9,8 @@ Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 6
 ### Day 2 RV_D2SK3_L1_Lab Testbench and Bitstream
 
 ![RV_D2SK3_L1_Lab-tb-and-bs](https://github.com/user-attachments/assets/a6cbfaba-ab53-4fa4-98da-c9d6bf00c099)
+
+### Day 3 RV_D3SK1_L3_Lab Combinational Calculator
+
+![RV_D3SK1_L3_Lab-ComCalc](https://github.com/user-attachments/assets/fdb0b959-a35e-4bf3-b451-1478685917f7)
+
