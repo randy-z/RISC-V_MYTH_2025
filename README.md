@@ -12,5 +12,7 @@ Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 6
 
 ### Day 3 RV_D3SK1_L3_Lab Combinational Calculator
 
+#### Makerchip URL: https://makerchip.com/sandbox/0gJflh2Yk/0ElhvX
+
 ![RV_D3SK1_L3_Lab-ComCalc](https://github.com/user-attachments/assets/fdb0b959-a35e-4bf3-b451-1478685917f7)
 
