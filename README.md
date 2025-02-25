@@ -16,3 +16,9 @@ Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 6
 
 ![RV_D3SK1_L3_Lab-ComCalc](https://github.com/user-attachments/assets/fdb0b959-a35e-4bf3-b451-1478685917f7)
 
+### Day 3 RV_D3SK4_L4_Lab 2-Cycle Calculator with Validity
+
+#### Makerchip URL: https://makerchip.com/sandbox/0gJflh2Yk/0oYhy3
+
+![RV_D3SK4_L4_Lab-2-Cycle-Calc-Valid](https://github.com/user-attachments/assets/f02c7136-eb3d-46e7-9876-8a6603c22e59)
+
