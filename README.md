@@ -18,7 +18,11 @@ Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 6
 
 ### Day 3 RV_D3SK4_L4_Lab 2-Cycle Calculator with Validity
 
-#### Makerchip URL: https://makerchip.com/sandbox/0gJflh2Yk/0oYhy3
+#### $${\color{red}!!!Seems \space not \space a \space correct \space solution!!!}$$ Makerchip URL: https://makerchip.com/sandbox/0gJflh2Yk/0oYhy3
 
 ![RV_D3SK4_L4_Lab-2-Cycle-Calc-Valid](https://github.com/user-attachments/assets/f02c7136-eb3d-46e7-9876-8a6603c22e59)
+
+#### $${\color{blue}!!!Revised \space after \space checking \space reference \space solutions!!!}$$ Makerchip URL: https://makerchip.com/sandbox/0gJflh2Yk/0r0hBz
+
+![RV_D3SK4_L4_Lab-2-Cycle-Calc-Valid_Corrected](https://github.com/user-attachments/assets/17de7478-03a5-4bf2-b5db-597fa729f310)
 
