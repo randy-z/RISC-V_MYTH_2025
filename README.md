@@ -1,12 +1,6 @@
 ## RISC-V MYTH Workshop 2025
 Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 64-bit RISC-V CPU
 
-[Day 3 RV_D3SK4_L5_Lab Calculator Single Value Memory](#day-3-rv_d3sk4_l5_lab-calculator-single-value-memory)
-
-[Day 3 RV_D3SK4_L5_Lab Visualization for Calculator Single Value Memory](#day-3-rv_d3sk4_l5_lab-visualization-for-calculator-single-value-memory)
-
-[Day 4 Basic RISC-V CPU](#day-4-basic-risc-v-cpu)
-
 ### Day 1 Fixed the bug for the RV_D1SK3_L3_Lab Signed and Unsigned Numbers
 ![RV_D1SK3_L3_Lab-FixCastIssue](https://github.com/user-attachments/assets/ad42d692-d335-499a-ab60-060b546d2caa)
 
