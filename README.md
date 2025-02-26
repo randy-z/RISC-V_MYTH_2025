@@ -3,7 +3,7 @@ Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 6
 
 [Day 3 RV_D3SK4_L5_Lab Calculator Single Value Memory](#day-3-rv_d3sk4_l5_lab-calculator-single-value-memory)
 
-[Day 3 RV_D3SK4_L5_Lab Visualization for Calculator Single Value Memory](#makerchip-url-httpsmakerchipcomsandbox0gjflh2yk0bghly)
+[Day 3 RV_D3SK4_L5_Lab Visualization for Calculator Single Value Memory](#day-3-rv_d3sk4_l5_lab-visualization-for-calculator-single-value-memory)
 
 [Day 4 Basic RISC-V CPU](#day-4-basic-risc-v-cpu)
 
