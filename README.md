@@ -29,3 +29,8 @@ Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 6
 #### Makerchip URL: https://makerchip.com/sandbox/0gJflh2Yk/0BghLY
 ![RV_D3SK4_L5_Lab-CalcSingleValMem_Viz](https://github.com/user-attachments/assets/d01f889a-71c0-4de3-a89a-686914d5180f)
 
+### Day 4 Basic RISC-V CPU
+#### 
+#### Makerchip URL: https://makerchip.com/sandbox/0gJflh2Yk/0Mjhq0x
+![RV_D4_Basic_RISC-V_CPU](https://github.com/user-attachments/assets/df04cb8c-93ea-4b3a-9d1a-44bf2f7627a2)
+
