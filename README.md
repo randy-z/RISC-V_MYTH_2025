@@ -1,6 +1,18 @@
 ## RISC-V MYTH Workshop 2025
 Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 64-bit RISC-V CPU
 
+[Day 1 Fixed bug for Signed and Unsigned Numbers](https://github.com/randy-z/RISC-V_MYTH_2025?tab=readme-ov-file#day-1-fixed-the-bug-for-the-rv_d1sk3_l3_lab-signed-and-unsigned-numbers)
+
+[Day 2 Testbench and Bistream](https://github.com/randy-z/RISC-V_MYTH_2025?tab=readme-ov-file#day-2-rv_d2sk3_l1_lab-testbench-and-bitstream)
+
+[Day 3 Combinational Calculator](https://github.com/randy-z/RISC-V_MYTH_2025?tab=readme-ov-file#day-3-rv_d3sk1_l3_lab-combinational-calculator)
+
+[Day 3 2-Cycle Calculator with Validity](https://github.com/randy-z/RISC-V_MYTH_2025?tab=readme-ov-file#day-3-rv_d3sk4_l4_lab-2-cycle-calculator-with-validity)
+
+[Day 3 Calculator Single Value Memory](https://github.com/randy-z/RISC-V_MYTH_2025?tab=readme-ov-file#day-3-rv_d3sk4_l5_lab-calculator-single-value-memory)
+
+[Day 3 Visualization for Calculator Single Value Memory](https://github.com/randy-z/RISC-V_MYTH_2025?tab=readme-ov-file#day-3-rv_d3sk4_l5_lab-visualization-for-calculator-single-value-memory)
+
 [Day 4 Basic RISC-V CPU](https://github.com/randy-z/RISC-V_MYTH_2025?tab=readme-ov-file#day-4-basic-risc-v-cpu)
 
 ### Day 1 Fixed the bug for the RV_D1SK3_L3_Lab Signed and Unsigned Numbers
