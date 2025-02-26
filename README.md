@@ -3,7 +3,7 @@ Five-day MYTH (Microprocessor for You in Thirty Hours) Workshop for building a 6
 
 [Day 4 Basic RISC-V CPU](https://github.com/randy-z/RISC-V_MYTH_2025/#day-4-basic-risc-v-cpu)
 
-Day 5 RISC-V CPU Final (pending)
+[Day 5 Pipelined RISC-V CPU Final](https://github.com/randy-z/RISC-V_MYTH_2025/#day-5-pipelined-risc-v-cpu)
 
 ### Day 1 Fixed the bug for the RV_D1SK3_L3_Lab Signed and Unsigned Numbers
 ![RV_D1SK3_L3_Lab-FixCastIssue](https://github.com/user-attachments/assets/ad42d692-d335-499a-ab60-060b546d2caa)
@@ -37,4 +37,9 @@ Day 5 RISC-V CPU Final (pending)
 #### [TL-Verilog source file is here](https://github.com/randy-z/RISC-V_MYTH_2025/blob/main/risc-v_solutions_day4.tlv)
 #### Makerchip URL: https://makerchip.com/sandbox/0gJflh2Yk/0Mjhq0x
 ![RV_D4_Basic_RISC-V_CPU](https://github.com/user-attachments/assets/df04cb8c-93ea-4b3a-9d1a-44bf2f7627a2)
+
+### Day 5 Pipelined RISC-V CPU
+#### [TL-Verilog source file is here](https://github.com/randy-z/RISC-V_MYTH_2025/blob/main/risc-v_solutions_day5_final.tlv)
+#### Makerchip URL: https://makerchip.com/sandbox/02kfkhBNk/0mwhijjz
+![RV_D5_RISC-V_CPU_Final](https://github.com/user-attachments/assets/23afe14c-d401-4cbd-bad3-97ba20c0ab3d)
 
